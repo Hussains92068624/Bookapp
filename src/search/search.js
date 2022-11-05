@@ -43,7 +43,7 @@ export default class SearchBooks extends Component {
       },
       {
         name: "STEPHEN KING",
-        author: "STEPHEN",
+        author: "STEPHENN",
         img: "https://images-na.ssl-images-amazon.com/images/I/410lHsidiVL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
         description:
           "It’s a small city, a place as hauntingly familiar as your own hometown. Only in Derry the haunting is real. They were seven teenagers when they first stumbled upon the horror",
